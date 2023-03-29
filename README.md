@@ -1,6 +1,6 @@
 ### 👋 Olá, sou Ygor Vinicius e este é meu perfil.
 
-- 🗿 Futuro cientista da computação
+- 🗿 Futuro cientista da computação & Desenvolver Front-End
 - ☕ Atualmente estudando Java
 
 ![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygordev01&show_icons=true&theme=tokyonight)
