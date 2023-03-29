@@ -1,3 +1,3 @@
-### Olá 👋
+### 👋 Olá, sou Ygor Vinicius e este é meu perfil.
 
-- 📚 Estou aprendendo a programar!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygordev01&theme=tokyonight&show_icons=true)
