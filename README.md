@@ -1,4 +1,4 @@
-### 👋 Olá, sou Ygor Vinicius e este é meu perfil.
+### 👋 Olá, sou Ygor e este é meu perfil.
 
 - 🗿 Futuro cientista da computação & desenvolver front-end
 - ☕ Atualmente estudando Java e Javascript
