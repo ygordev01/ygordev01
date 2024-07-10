@@ -1,4 +1,4 @@
 ### 👋 Olá, sou Ygor e este é meu perfil.
 
-- ☕ Atualmente estudando Cybersecurity.
+- ☕ Atualmente estudando cibersegurança.
 - Não há muito a se ver por aqui, por enquanto!
